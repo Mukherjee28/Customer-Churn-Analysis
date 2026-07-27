@@ -108,21 +108,15 @@ Identify the strongest factors contributing to customer churn.
 
 ### 5️⃣ Dashboard Development
 Built an interactive Power BI dashboard featuring:
-✅ Overall Churn Rate
-✅ Customer Distribution
-✅ Revenue Analysis
-✅ Contract Type Analysis
-✅ Payment Method Analysis
-✅ Tenure Analysis
-✅ Internet Service Analysis
-✅ Demographic Insights
+- ✅ Overall Churn Rate
+- ✅ Customer Distribution
+- ✅ Revenue Analysis
+- ✅ Contract Type Analysis
+- ✅ Payment Method Analysis
+- ✅ Tenure Analysis
+- ✅ Internet Service Analysis
+- ✅ Demographic Insights
 Interactive slicers enable stakeholders to explore the data dynamically.
-
-# 📈 Dashboard Preview
-> *(Insert dashboard screenshot here)*
-```
-Images/Dashboard Screenshot.png
-```
 
 # 📌 Key Business Insights
 Some major insights obtained during the analysis include:
