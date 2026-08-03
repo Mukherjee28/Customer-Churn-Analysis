@@ -29,9 +29,13 @@ Key findings include:
 - 📌 Some states contribute disproportionately to customer churn.
 - 📌 Churn scores help identify high-risk customers for retention.
 
-# 📷 Dashboard Preview
+# 📷 Dashboard and Jupyter Notebook charts preview
 > *(Insert your Power BI Dashboard Screenshot here)*
 ![Dashboard](Dashboard_ss.png)
+> *(Insert your Matplotlib Bar Chart screenshot here)*
+![Matplotlib Bar Chart](Matplotlib_Bar_chart.png)
+> *(Insert your Heatmap here)*
+![Seaborn HeatMap](Heatmap.png)
 
 # 📊 Dashboard KPIs
 | 📌 KPI | 📖 Description |
