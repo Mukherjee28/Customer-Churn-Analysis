@@ -30,10 +30,11 @@ Key findings include:
 - 📌 Churn scores help identify high-risk customers for retention.
 
 # 📷 Dashboard and Jupyter Notebook charts preview
+## Power BI Dashboard
 ![Dashboard](Dashboard_ss.png)
-
-![Matplotlib Bar Chart](Matplotlib_Bar_chart.png)
-
+## Bar Chart Using Matplotlib
+![Matplotlib Bar Chart](Matplotlib_Bar_Chart.png)
+## HeatMap Using Seaborn
 ![Seaborn HeatMap](Heatmap.png)
 
 # 📊 Dashboard KPIs
